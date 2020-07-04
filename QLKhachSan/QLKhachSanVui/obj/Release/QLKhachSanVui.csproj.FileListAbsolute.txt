@@ -1,0 +1,16 @@
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\bin\Release\QLKhachSanVui.exe.config
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\bin\Release\QLKhachSanVui.exe
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\bin\Release\QLKhachSanVui.pdb
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.FormLogin.resources
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.FormMain.resources
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.Properties.Resources.resources
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.csproj.GenerateResource.Cache
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.exe
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.pdb
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.FormDoiMK.resources
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.FormKhachHang.resources
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.FormPhong.resources
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.FormThongTin.resources
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.csprojResolveAssemblyReference.cache
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.FormDatPhong.resources
+D:\Documents\Net2\QLKhachSanVui\QLKhachSanVui\obj\Release\QLKhachSanVui.FormThuePhong.resources

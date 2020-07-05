@@ -16,7 +16,7 @@ namespace QLKhachSanVui
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormDatPhong());
+            Application.Run(new FormKhachHang());
         }
     }
 }

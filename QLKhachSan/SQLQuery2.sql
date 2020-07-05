@@ -166,6 +166,8 @@ as
  as begin
  delete phong where maphong=@maphong
  end
+
+
  --Them phieu dat phong;
  go
  create proc themDatPhong(
